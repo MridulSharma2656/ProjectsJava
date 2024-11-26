@@ -2,7 +2,7 @@ package SkillsPw.Others;
 
 import java.util.Scanner;
 // WITH TIME COMPLEXITY = O(l);
-public class PrintAny {
+public class PatternPrintAny {
     public static final String RESET = "\u001B[0m";
     public static final String BRIGHTBLUE = "\u001B[94m";
     public static final String BOLD = "\u001B[1m";
